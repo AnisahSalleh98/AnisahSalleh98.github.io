@@ -94,6 +94,11 @@ body{
     border-top: 2px solid #337399;
 }
 
+.line-bl2{
+    width: 100%;
+    border-top: 1px solid #1E88E5;
+}
+
 .line-be{
     width: 100%;
     border-top: 1px solid #dfd1a4;
@@ -241,7 +246,7 @@ body{
 
 h1.heading-1{
     font-size: 24pt;
-    color: #337399;
+    color: #244667;
     font-weight: lighter;
 }
 
@@ -634,7 +639,7 @@ table.department-tbl th{
     color: white;
     text-align: center;
     font-size: 14px;
-    border: 1px solid gray;
+    border: 1px solid white;
 }
 
 .legend {
@@ -890,7 +895,7 @@ table.tbl-lgd td{
 
 .footer-text {
 
-    color: #244667;
+    color: #1E88E5;
     font-size: 10px;
     text-transform: uppercase;
 }

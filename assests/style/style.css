@@ -63,6 +63,12 @@ body{
     border-top: 1px solid #244667;
 }
 
+.line-bl2{
+    width: 100%;
+    border-top: 1px solid #1E88E5;
+}
+
+
 .line-be{
     width: 100%;
     border-top: 1px solid #dfd1a4;
@@ -703,7 +709,7 @@ table.tbl-lgd{
 
 .footer-text {
 
-    color: #244667;
+    color: #1E88E5;
     font-size: 10px;
     text-transform: uppercase;
 }
